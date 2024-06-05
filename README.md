@@ -1,7 +1,7 @@
 A two-stage linear programming optimization framework for isolated hybrid microgrids in a rural context: the case study of the “El Espino” community.
 ========================
 
-This is code used for the publication: [https://doi.org/10.1016/j.rset.2023.100053](https://doi.org/10.1016/j.energy.2019.116073)
+This is code used for the publication: [https://doi.org/10.1016/j.energy.2019.116073]
 
 ### Description
 
